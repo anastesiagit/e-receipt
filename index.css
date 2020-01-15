@@ -1,0 +1,10 @@
+div{
+    width: 80%;
+    /* background-color: rgb(1, 1, 51); */
+    border-radius: 8px;
+}
+#grand{
+    height: 37px; 
+    border-radius: 5px;
+    margin-top: 2px;
+}
